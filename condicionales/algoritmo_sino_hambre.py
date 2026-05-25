@@ -1,3 +1,5 @@
+respuesta = 0 
+
 respuesta = input("¿Tiene hambre? (si/no): ").lower()
 
 if respuesta == "si":
