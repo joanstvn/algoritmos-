@@ -1,3 +1,27 @@
+# ============================================
+# Ejercicio 2 — Clasificación de notas
+# ============================================
+
+# Desarrolle un programa que solicite la nota definitiva
+# de un estudiante en una materia.
+
+# Reglas:
+# - Si la nota está entre 4.5 y 5.0:
+#   “Excelente desempeño.”
+#
+# - Si la nota está entre 3.5 y 4.4:
+#   “El estudiante aprobó la materia.”
+#
+# - Si la nota está entre 2.0 y 3.4:
+#   “El estudiante debe realizar recuperación.”
+#
+# - Si la nota es menor a 2.0:
+#   “El estudiante reprobó la materia.”
+
+# Validaciones:
+# - Si la nota es menor que 0 o mayor que 5:
+#   “Error: nota inválida.”
+
 nota_definitiva = 0
 entrada = 0 
 
