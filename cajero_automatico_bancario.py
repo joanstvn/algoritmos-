@@ -4,7 +4,7 @@ saldo = 1000000
 opcion = 0
 
 while opcion != 4:
-    print("\nMENÚ DEL CAJERO")
+    print("MENÚ DEL CAJERO")
     print("1. Consultar saldo")
     print("2. Depositar dinero")
     print("3. Retirar dinero")
